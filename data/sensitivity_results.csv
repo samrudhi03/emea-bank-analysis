@@ -1,0 +1,10 @@
+Bank,Scenario,NIM (%),Net Income (bn),ROE (%),Income Change (bn),Income Change (%)
+Barclays,Bear Case (-25bps),0.6021,2.511,3.5,-3.796,-60.2
+Barclays,Base Case,0.8521,6.307,8.78,0.0,0.0
+Barclays,Bull Case (+25bps),1.1021,10.103,14.07,3.796,60.2
+BNP Paribas,Bear Case (-25bps),0.4718,4.926,3.84,-6.762,-57.9
+BNP Paribas,Base Case,0.7218,11.688,9.12,0.0,0.0
+BNP Paribas,Bull Case (+25bps),0.9718,18.45,14.4,6.762,57.9
+Deutsche Bank,Bear Case (-25bps),0.6918,-0.102,-0.13,-3.468,-103.0
+Deutsche Bank,Base Case,0.9418,3.366,4.32,0.0,0.0
+Deutsche Bank,Bull Case (+25bps),1.1918,6.834,8.78,3.468,103.0
