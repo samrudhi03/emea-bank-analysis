@@ -1,4 +1,4 @@
-# EMEA Bank Analysis — Equity Research Project
+# EMEA Bank Analysis - Equity Research Project
 
 Analysing three major European banks using Python. 
 Built to develop financial modelling skills and 
@@ -26,17 +26,17 @@ The full written output is in `investment_note.md`.
 
 ## The Three Banks
 
-**Barclays (BARC.L)** — UK bank, mid-restructure, interesting because 
+**Barclays (BARC.L)** - UK bank, mid-restructure, interesting because 
 it showed the strongest earnings growth in 2024 despite still trading 
 below book value.
 
-**BNP Paribas (BNP.PA)** — Largest French bank, steady profitability 
+**BNP Paribas (BNP.PA)** - Largest French bank, steady profitability 
 but a cost efficiency problem that the market is clearly aware of.
 
-**Deutsche Bank (DBK.DE)** — The most complex case. Operational 
+**Deutsche Bank (DBK.DE)** - The most complex case. Operational 
 improvements are real but ROE is going in the wrong direction. 
 The sensitivity analysis reveals it is also the most vulnerable 
-to ECB rate cuts — one 25bps move pushes it close to breakeven.
+to ECB rate cuts - one 25bps move pushes it close to breakeven.
 
 ---
 
@@ -60,7 +60,7 @@ emea-bank-analysis/
 
 ## Key Findings
 
-**Barclays** had the best 2024 of the three — 19.9% net income growth, 
+**Barclays** had the best 2024 of the three - 19.9% net income growth, 
 cost to income down to 60.9%, and ROE approaching the 10% benchmark. 
 The valuation does not fully reflect this momentum yet.
 
@@ -69,7 +69,7 @@ to income ratio above 72% is a real drag. The market discount versus
 Barclays looks justified until costs improve.
 
 **Deutsche Bank** is the most complicated. Costs have improved 
-significantly but ROE has fallen from 7.8% to 4.3% over three years — 
+significantly but ROE has fallen from 7.8% to 4.3% over three years 
 a revenue problem, not a cost problem. The sensitivity analysis showed 
 that a single 25bps NIM compression would push net income into negative 
 territory. Cheap on P/B at 0.58x but cheap for a reason.
@@ -83,7 +83,7 @@ depend on interest rates. I quantified this using:
 
 **Income Impact = Total Assets × NIM Change**
 
-This is a simplified upper bound — it assumes the full balance sheet 
+This is a simplified upper bound - it assumes the full balance sheet 
 reprices immediately which overstates true sensitivity. But the 
 direction is clear: Deutsche Bank is most exposed to further ECB 
 cuts, BNP has the highest absolute sensitivity due to its balance 
@@ -109,7 +109,7 @@ rate environment.
 ## Limitations Worth Knowing
 
 Yahoo Finance data is reliable for this kind of analysis but not 
-Bloomberg quality. A few things required manual fixes — Barclays 
+Bloomberg quality. A few things required manual fixes - Barclays 
 price data came in pence not pounds, and Deutsche Bank operating 
 expense had to be reconstructed from component lines because it 
 is not reported as a single field.
@@ -117,7 +117,7 @@ is not reported as a single field.
 The NIM figures I calculated will not match bank-reported NIM 
 exactly because I used total assets as the denominator rather 
 than average interest-earning assets. The sensitivity analysis 
-overstates rate sensitivity for the same reason — true sensitivity 
+overstates rate sensitivity for the same reason, true sensitivity 
 would be lower once you account for fixed rate assets and hedging.
 
 ---
