@@ -2,7 +2,7 @@
 **Date:** March 2025  
 **Banks Covered:** Barclays (BARC.L), BNP Paribas (BNP.PA), Deutsche Bank (DBK.DE)  
 **Data:** Yahoo Finance via yfinance  
-**Period:** FY2022 — FY2024  
+**Period:** FY2022 - FY2024  
 
 ---
 
@@ -10,11 +10,11 @@
 
 I built this project to understand how equity research analysts actually 
 think about banks. Rather than just reading about it, I wanted to go 
-through the process myself — pull real data, calculate the metrics that 
+through the process myself - pull real data, calculate the metrics that 
 actually matter, and arrive at a view I could defend.
 
 The three banks I picked give a reasonable cross-section of European 
-banking — a UK bank mid-restructure, a large French retail bank, and a 
+banking - a UK bank mid-restructure, a large French retail bank, and a 
 German bank that has been trying to turn itself around for years. All 
 three are interesting for different reasons.
 
@@ -24,12 +24,12 @@ three are interesting for different reasons.
 
 The headline story from 2022 to 2024 is that European banks have had 
 a good run. Rising interest rates meant banks could charge more on 
-loans without paying much more on deposits — that gap, the Net Interest 
+loans without paying much more on deposits that gap, the Net Interest 
 Margin, is basically how banks make money. All three banks benefited.
 
 But 2024 is where it gets interesting. The ECB started cutting rates. 
 That tailwind is now turning into a headwind. The question I tried to 
-answer is — how exposed is each bank to that shift, and is the current 
+answer is how exposed is each bank to that shift, and is the current 
 stock price already reflecting it?
 
 ---
@@ -66,7 +66,7 @@ that the other two do not.
 Main risk is the Bank of England cutting faster than expected. Barclays 
 has a big balance sheet and NIM compression would hurt earnings. My 
 sensitivity analysis suggests a 25bps NIM fall could knock about £3.8bn 
-off net income — though that is probably an overestimate since not 
+off net income though that is probably an overestimate since not 
 every asset reprices immediately.
 
 **View: Outperform**
@@ -85,7 +85,7 @@ sector average is around 65% and anything above 70% is generally
 considered inefficient. BNP has been above that threshold for the 
 entire period I looked at and the improvement has been slow.
 
-The market seems to be pricing this in already — BNP trades at a 
+The market seems to be pricing this in already BNP trades at a 
 slight discount to Barclays despite having higher ROE. Until costs 
 come down more convincingly I think that discount is fair.
 
@@ -96,11 +96,11 @@ come down more convincingly I think that discount is fair.
 ## Deutsche Bank — Neutral to Underperform
 
 This is the most complicated one. On the surface Deutsche Bank looks 
-cheap at 0.58x P/B — well below peers and well below book value. But 
+cheap at 0.58x P/B - well below peers and well below book value. But 
 cheap for a reason is not the same as undervalued.
 
 The operational story is actually positive. Cost to income improved 
-from 66% in 2022 to 60% in 2024 — the biggest improvement of the three. 
+from 66% in 2022 to 60% in 2024 the biggest improvement of the three. 
 The restructuring is clearly doing something on the cost side.
 
 The problem is ROE. It has gone from 7.8% in 2022 to 4.3% in 2024, 
@@ -110,7 +110,7 @@ to fix than a cost problem.
 
 The sensitivity analysis makes this even more uncomfortable. A single 
 25bps NIM compression would push Deutsche Bank net income into 
-negative territory — the only bank in this analysis where one rate 
+negative territory the only bank in this analysis where one rate 
 cut could wipe out profitability entirely. That makes the investment 
 case very binary. If rates stay flat or rise, there is a recovery 
 story. If the ECB keeps cutting, the numbers get very difficult very 
@@ -123,7 +123,7 @@ quickly.
 ## Sensitivity Analysis
 
 I wanted to quantify how much each bank's earnings depend on where 
-interest rates go. The approach was simple — if NIM moves by 25 basis 
+interest rates go. The approach was simple if NIM moves by 25 basis 
 points (one standard rate move), the income impact is roughly:
 
 **Total Assets × NIM Change**
@@ -156,7 +156,7 @@ am cautious on Deutsche Bank despite how cheap the valuation looks.
 Barclays is the clearest case. It has momentum, it is operationally 
 efficient, and it is not obviously expensive. BNP is fine but the cost 
 problem is real and limits upside. Deutsche Bank is the most 
-interesting intellectually but also the most dangerous — the 
+interesting intellectually but also the most dangerous the 
 operational improvement is real but the earnings fragility in a 
 falling rate environment makes it hard to recommend with conviction.
 
@@ -170,7 +170,7 @@ The data came from Yahoo Finance which is free and generally reliable
 but not Bloomberg quality. Barclays price data came in pence not pounds 
 which required a manual correction. Deutsche Bank operating expense 
 was not reported as a single line item so I reconstructed it from 
-component cost lines — that introduces some approximation.
+component cost lines that introduces some approximation.
 
 The NIM I calculated is Net Interest Income divided by Total Assets. 
 Bank annual reports use a slightly different version based on average 
@@ -180,9 +180,9 @@ will not match their reported numbers exactly.
 The sensitivity analysis is a linear upper bound. The actual earnings 
 impact of a rate move would be lower in practice because banks manage 
 their interest rate exposure through hedging and asset-liability 
-management. But the directional conclusions — that Deutsche Bank is 
-most exposed and Barclays least — should hold regardless.
+management. But the directional conclusions that Deutsche Bank is 
+most exposed and Barclays least should hold regardless.
 
 ---
 
-*Independent analytical project. Not investment advice.*
+*analytical project. Not investment advice.*
