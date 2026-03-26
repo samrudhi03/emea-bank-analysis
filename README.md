@@ -100,8 +100,8 @@ rate environment.
 
 ## Tools Used
 
-- Python — pandas, matplotlib, seaborn, numpy
-- yfinance — financial data via Yahoo Finance
+- Python - pandas, matplotlib, seaborn, numpy
+- yfinance - financial data via Yahoo Finance
 - Jupyter Notebooks in VS Code
 
 ---
