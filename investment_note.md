@@ -1,5 +1,4 @@
 # Equity Research Note
-**Date:** March 2025  
 **Banks Covered:** Barclays (BARC.L), BNP Paribas (BNP.PA), Deutsche Bank (DBK.DE)  
 **Data:** Yahoo Finance via yfinance  
 **Period:** FY2022 - FY2024  
