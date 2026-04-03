@@ -12,7 +12,7 @@ It goes through the full process of a basic equity research exercise:
 
 - Pulls three years of financial data for Barclays, BNP Paribas, 
   and Deutsche Bank using the yfinance library
-- Calculates the key metrics that matter for bank analysis — NIM, 
+- Calculates the key metrics that matter for bank analysis - NIM, 
   ROE, ROA, cost to income ratio
 - Compares each bank's valuation using P/B and P/E ratios against 
   sector averages
