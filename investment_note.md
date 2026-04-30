@@ -7,7 +7,7 @@
 
 
 
-European banks benefited from rising rates through 2022–2024. With the ECB now cutting, this note assesses which banks are best positioned for the reversal — and which are most exposed.
+European banks benefited from rising rates through 2022–2024. With the ECB now cutting, this note assesses which banks are best positioned for the reversal and which are most exposed.
 
 ---
 
