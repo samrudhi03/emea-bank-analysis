@@ -25,7 +25,7 @@ stock price already reflecting it?
 
 ---
 
-## Key Metrics — FY2024
+## Key Metrics - FY2024
 
 | Metric | Barclays | BNP Paribas | Deutsche Bank |
 |--------|----------|-------------|---------------|
@@ -43,7 +43,7 @@ believe they can earn enough on it going forward.
 
 ---
 
-## Barclays — Outperform
+## Barclays - Outperform
 
 Barclays had the best year of the three in 2024. Net income grew 19.9%, 
 cost to income came in at 60.9% which is genuinely lean for a bank this 
@@ -64,7 +64,7 @@ every asset reprices immediately.
 
 ---
 
-## BNP Paribas — Neutral
+## BNP Paribas - Neutral
 
 BNP is the most profitable of the three on an ROE basis at 9.1% and 
 has the biggest balance sheet at around €2,700bn. Revenue has grown 
@@ -84,7 +84,7 @@ come down more convincingly I think that discount is fair.
 
 ---
 
-## Deutsche Bank — Neutral to Underperform
+## Deutsche Bank - Neutral to Underperform
 
 This is the most complicated one. On the surface Deutsche Bank looks 
 cheap at 0.58x P/B - well below peers and well below book value. But 
@@ -176,4 +176,4 @@ most exposed and Barclays least should hold regardless.
 
 ---
 
-*analytical project. Not investment advice.*
+*personal project. Not investment advice.*
