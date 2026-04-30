@@ -5,17 +5,9 @@
 
 ---
 
-## Why I Did This
 
-I built this project to understand how equity research analysts actually 
-think about banks. Rather than just reading about it, I wanted to go 
-through the process myself - pull real data, calculate the metrics that 
-actually matter, and arrive at a view I could defend.
 
-The three banks I picked give a reasonable cross-section of European 
-banking - a UK bank mid-restructure, a large French retail bank, and a 
-German bank that has been trying to turn itself around for years. All 
-three are interesting for different reasons.
+European banks benefited from rising rates through 2022–2024. With the ECB now cutting, this note assesses which banks are best positioned for the reversal — and which are most exposed.
 
 ---
 
