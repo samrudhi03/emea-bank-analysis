@@ -18,8 +18,10 @@ emea-bank-analysis/
 │
 ├── data/                              # CSVs saved from each notebook
 ├── outputs/                           # All charts saved as PNG
+├── EMEA_Banking_NIM_Model.xlsx        # Excel NIM model
 ├── investment_note.md                 # Written research note
 └── README.md
+
 ```
 
 ---
