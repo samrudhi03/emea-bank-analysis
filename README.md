@@ -1,8 +1,8 @@
-# EMEA Banking Sector — Equity Research & NIM Sensitivity Analysis
+# EMEA Banking Sector - Equity Research & NIM Sensitivity Analysis
 
 Analysis of Barclays, BNP Paribas, and Deutsche Bank across ratio analysis,
 valuation, NIM sensitivity modelling, and written investment views.
-Built as a structured, end-to-end research exercise using Python and Excel.
+Built as a structured, end to end research exercise using Python and Excel.
 
 ---
 
@@ -28,7 +28,7 @@ emea-bank-analysis/
 
 ## What This Project Does
 
-### 01 — Data Collection
+### 01 - Data Collection
 Pulls three years of financial data for all three banks via `yfinance`: daily
 share prices, income statements, balance sheets, and valuation metrics. Includes
 explicit data quality checks with warnings for missing values.
